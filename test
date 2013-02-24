@@ -1,0 +1,4 @@
+while month < 12:
+        tempbal = tempbal * (1+mintrs)- minpay
+        month += 1
+        print month
